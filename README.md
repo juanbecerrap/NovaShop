@@ -10,7 +10,7 @@ La aplicación permite explorar productos, realizar búsquedas, aplicar filtros,
 
 **Live Demo:** https://novashop-b2529.web.app
 
-**GitHub:** PENDIENTE
+**GitHub:** https://github.com/juanbecerrap/NovaShop
 
 ## 📸 Capturas
 
