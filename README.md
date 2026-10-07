@@ -16,15 +16,15 @@ La aplicación permite explorar productos, realizar búsquedas, aplicar filtros,
 
 | Inicio                               | Catálogo                                  |
 | ------------------------------------ | ----------------------------------------- |
-| ![Inicio](docs/screenshots/home.png) | ![Catálogo](docs/screenshots/catalog.png) |
+| ![Inicio](docs/screenshots/01-inicio.png) | ![Catálogo](docs/screenshots/02-catalogo.png) |
 
 | Detalle de producto                      | Carrito                               |
 | ---------------------------------------- | ------------------------------------- |
-| ![Detalle](docs/screenshots/product.png) | ![Carrito](docs/screenshots/cart.png) |
+| ![Detalle](docs/screenshots/03-productos.png) | ![Carrito](docs/screenshots/04-carrito.png) |
 
 | Checkout                                   | Vista móvil                           |
 | ------------------------------------------ | ------------------------------------- |
-| ![Checkout](docs/screenshots/checkout.png) | ![Móvil](docs/screenshots/mobile.png) |
+| ![Checkout](docs/screenshots/05-checkout.png) | ![Móvil](docs/screenshots/06-movil.jpeg) |
 
 ## 🛠️ Tecnologías
 
